@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_fine_dust.xml",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/layout/fragment_fine_dust.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/fragment_weather.xml",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/layout/fragment_weather.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_start.xml",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/incremental/mergeReleaseResources/stripped.dir/layout/activity_show.xml",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/layout/activity_show.xml"
+    }
+]

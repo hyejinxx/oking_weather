@@ -1,0 +1,108 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hyejin.okingweather"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:6:5-80
+11-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:7:5-78
+12-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:8:5-67
+13-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:9:5-78
+14-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:9:22-76
+15
+16    <application
+16-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:11:5-32:19
+17        android:allowBackup="true"
+17-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:12:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/2f5f9b30e7e460dcbf7d0954d752fe1f/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/oking_icon"
+20-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:13:9-42
+21        android:label="@string/app_name"
+21-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:14:9-41
+22        android:roundIcon="@mipmap/oking_icon_round"
+22-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:15:9-53
+23        android:supportsRtl="true"
+23-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:16:9-35
+24        android:theme="@style/Theme.OkingWeather"
+24-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:18:9-50
+25        android:usesCleartextTraffic="true" >
+25-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:17:9-44
+26        <activity
+26-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:20:9-23:20
+27            android:name="com.hyejin.okingweather.ShowActivity"
+27-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:21:13-41
+28            android:exported="true" >
+28-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:22:13-36
+29        </activity>
+30        <activity
+30-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:24:9-31:20
+31            android:name="com.hyejin.okingweather.StartActivity"
+31-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:25:13-42
+32            android:exported="true" >
+32-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:26:13-36
+33            <intent-filter>
+33-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:27:13-30:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:28:17-69
+34-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:28:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:29:17-77
+36-->/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:29:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->[com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+40            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+40-->[com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+41            android:exported="false"
+41-->[com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+42            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+42-->[com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+43
+44        <meta-data
+44-->[com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+45            android:name="com.google.android.gms.version"
+45-->[com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+46            android:value="@integer/google_play_services_version" />
+46-->[com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+50            android:authorities="com.hyejin.okingweather.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>

@@ -1,0 +1,5 @@
+package com.hyejin.okingweather;
+
+public class BR {
+  public static final int _all = 0;
+}

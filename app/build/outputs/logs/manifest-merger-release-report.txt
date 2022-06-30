@@ -1,0 +1,378 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/237b52195714f3a306700b7f8048b4ba/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/f5cab57fd06f97fb8caa6deea5d941be/transformed/databinding-ktx-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/1bf50f94c744ab17384ee6119d9b3e43/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/e7681dcee8b5d979c26620d94c949d53/transformed/viewbinding-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/cfe1c9e8cef62f88bfcdc05726a68bf2/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/hyejin/.gradle/caches/transforms-3/a598690d1c0a57f06488d0a5493efb68/transformed/activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/dc8ca4c0c96c94ad202ff702f108d2ff/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/hyejin/.gradle/caches/transforms-3/b34d282cdcbef5432efa1da15733615e/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/46ac73bf1568f3cb16d7cd7456fafdeb/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0] /Users/hyejin/.gradle/caches/transforms-3/4e4f084eda5170860f6a7cf083266e09/transformed/material-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hyejin/.gradle/caches/transforms-3/fd54ef8bab7017b5b06b45a0253dafae/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/a1b3432069384f85e841d3500aa2288a/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/b857582ffd2176b53d58e3167aa930e8/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/00ca527b0dd5491927116cf2ef7de4b7/transformed/glide-4.13.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hyejin/.gradle/caches/transforms-3/68e8f12e6853b716adf9828e3c212cdd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/ac94934124bc87ac4c82e69d1ba0a2b5/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/8e821de1944a32fcdfe939fc6e542a30/transformed/play-services-drive-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/hyejin/.gradle/caches/transforms-3/eb46270c962ff9556b136c9dbb125336/transformed/play-services-location-19.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/967dfaa09d5ca449a93aa5253ec505ff/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/416ec8128da8b20db1a7d18f1d4b6a9a/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/6c8b0fc3035c840118cf1c2ec29cdfc5/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/1185481b5bdbb2da5e0c99d81960ebf5/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/hyejin/.gradle/caches/transforms-3/f145e27afcd8c76fda176d27ecdb0949/transformed/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/5b45fb539138eff00dce43e393344c03/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/cc5e64b154e236b9fe5f26e161f10ec8/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/3180192317cea09deea390b1c9ab13e7/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hyejin/.gradle/caches/transforms-3/aaa089479d6fd99ae42902b08f073f8d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/a23f5d925c99bdb66f597c2b57ea09cb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/343ea938c55def90086d33452ccaf2a5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/hyejin/.gradle/caches/transforms-3/3527abc722d72f402a62dcac2dec72b8/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/9b8519e9f9929d6570e0f21d5e7b9b7d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/b5e01df8dd7374394e8d0268937cc69c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fa616ed6a2597ee7bcb3bec4fb321bb2/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/ec11b1c897e38a6c1ab8b628b3c03cdf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.4.0] /Users/hyejin/.gradle/caches/transforms-3/86a16b16ef8857eca31ea3722cca6f51/transformed/activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/bd9e8b70c9280789f8544380f6aac24b/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/5f20b36e6fe1aee9f6c0a8d734c37efb/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/810d50c539f03e9688fa09ebc2d451cc/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/72c54efdc4980465306cf883fcc163e1/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/2a9076f760c41b07ed4f478acc41e9d7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/604565b004bd1dac2109843fa844c0dc/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/85f18d4956ea93d9ed50796759abda88/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/2f5f9b30e7e460dcbf7d0954d752fe1f/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/19d4807f4ba8aa52d28e4e4e4b1a3e8f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/e4b0e7d28f50d28dd0b9131a0f531f88/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hyejin/.gradle/caches/transforms-3/fda65d73b729c11904fab209d61df8e0/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/6e5f52a960c4f2f42b30626c783bb183/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/462618d6ccb6c287009eeb73ce3813e6/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/bb4873d6298048e19a11b35fd60bb014/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/1e0f5e494a8a05ae27db24d5f5936baa/transformed/gifdecoder-4.13.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/hyejin/.gradle/caches/transforms-3/a795dc28003f8f248c31f699fd955d18/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fce34dfaaf78fe287bb4ab7215feb537/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/209801ee54437568ddde5c5fee1edee9/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/68b40ef472db1d2b30f4ee795cb125b9/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/c299e26d138179b1c078f9721f5bb70c/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/42df1309c1374d016e2f4a92958199b6/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hyejin/.gradle/caches/transforms-3/7ec1029282eb1f650b1762c56cdffc05/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/8271b2fde833abad727692de747fe737/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hyejin/.gradle/caches/transforms-3/9c5f9b726dd86a8771f1611236af7d24/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hyejin/.gradle/caches/transforms-3/33078a4207bfd95eeb2411721a4b3197/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/b5af139868f9998feca2dcceeaedad4d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/68c564f3006466cfc424d7040d89cc43/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/93a771579b85359401cc7a1e97cc3b5a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/69e658761d6b615d2298e3fd0ac0a192/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/7e888f7e44df294c1fc4d70680d1b040/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:11:5-32:19
+MERGED from [com.google.android.material:material:1.6.0] /Users/hyejin/.gradle/caches/transforms-3/4e4f084eda5170860f6a7cf083266e09/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] /Users/hyejin/.gradle/caches/transforms-3/4e4f084eda5170860f6a7cf083266e09/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hyejin/.gradle/caches/transforms-3/fd54ef8bab7017b5b06b45a0253dafae/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hyejin/.gradle/caches/transforms-3/fd54ef8bab7017b5b06b45a0253dafae/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/00ca527b0dd5491927116cf2ef7de4b7/transformed/glide-4.13.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/00ca527b0dd5491927116cf2ef7de4b7/transformed/glide-4.13.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hyejin/.gradle/caches/transforms-3/68e8f12e6853b716adf9828e3c212cdd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hyejin/.gradle/caches/transforms-3/68e8f12e6853b716adf9828e3c212cdd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/8e821de1944a32fcdfe939fc6e542a30/transformed/play-services-drive-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/8e821de1944a32fcdfe939fc6e542a30/transformed/play-services-drive-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/hyejin/.gradle/caches/transforms-3/eb46270c962ff9556b136c9dbb125336/transformed/play-services-location-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/hyejin/.gradle/caches/transforms-3/eb46270c962ff9556b136c9dbb125336/transformed/play-services-location-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/967dfaa09d5ca449a93aa5253ec505ff/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/967dfaa09d5ca449a93aa5253ec505ff/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/416ec8128da8b20db1a7d18f1d4b6a9a/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/416ec8128da8b20db1a7d18f1d4b6a9a/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/hyejin/.gradle/caches/transforms-3/f145e27afcd8c76fda176d27ecdb0949/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/hyejin/.gradle/caches/transforms-3/f145e27afcd8c76fda176d27ecdb0949/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/2f5f9b30e7e460dcbf7d0954d752fe1f/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/2f5f9b30e7e460dcbf7d0954d752fe1f/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/1e0f5e494a8a05ae27db24d5f5936baa/transformed/gifdecoder-4.13.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/1e0f5e494a8a05ae27db24d5f5936baa/transformed/gifdecoder-4.13.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fce34dfaaf78fe287bb4ab7215feb537/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fce34dfaaf78fe287bb4ab7215feb537/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hyejin/.gradle/caches/transforms-3/33078a4207bfd95eeb2411721a4b3197/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hyejin/.gradle/caches/transforms-3/33078a4207bfd95eeb2411721a4b3197/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/2f5f9b30e7e460dcbf7d0954d752fe1f/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:15:9-53
+	tools:targetApi
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:19:9-28
+	android:icon
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:13:9-42
+	android:allowBackup
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:18:9-50
+	android:usesCleartextTraffic
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:17:9-44
+activity#com.hyejin.okingweather.ShowActivity
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:20:9-23:20
+	android:exported
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:21:13-41
+activity#com.hyejin.okingweather.StartActivity
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:25:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/237b52195714f3a306700b7f8048b4ba/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/237b52195714f3a306700b7f8048b4ba/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/f5cab57fd06f97fb8caa6deea5d941be/transformed/databinding-ktx-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/f5cab57fd06f97fb8caa6deea5d941be/transformed/databinding-ktx-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/1bf50f94c744ab17384ee6119d9b3e43/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/1bf50f94c744ab17384ee6119d9b3e43/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/e7681dcee8b5d979c26620d94c949d53/transformed/viewbinding-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/hyejin/.gradle/caches/transforms-3/e7681dcee8b5d979c26620d94c949d53/transformed/viewbinding-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/cfe1c9e8cef62f88bfcdc05726a68bf2/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/cfe1c9e8cef62f88bfcdc05726a68bf2/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/hyejin/.gradle/caches/transforms-3/a598690d1c0a57f06488d0a5493efb68/transformed/activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/hyejin/.gradle/caches/transforms-3/a598690d1c0a57f06488d0a5493efb68/transformed/activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/dc8ca4c0c96c94ad202ff702f108d2ff/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/dc8ca4c0c96c94ad202ff702f108d2ff/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/hyejin/.gradle/caches/transforms-3/b34d282cdcbef5432efa1da15733615e/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/hyejin/.gradle/caches/transforms-3/b34d282cdcbef5432efa1da15733615e/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/46ac73bf1568f3cb16d7cd7456fafdeb/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/46ac73bf1568f3cb16d7cd7456fafdeb/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/hyejin/.gradle/caches/transforms-3/4e4f084eda5170860f6a7cf083266e09/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/hyejin/.gradle/caches/transforms-3/4e4f084eda5170860f6a7cf083266e09/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hyejin/.gradle/caches/transforms-3/fd54ef8bab7017b5b06b45a0253dafae/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hyejin/.gradle/caches/transforms-3/fd54ef8bab7017b5b06b45a0253dafae/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/a1b3432069384f85e841d3500aa2288a/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/a1b3432069384f85e841d3500aa2288a/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/b857582ffd2176b53d58e3167aa930e8/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/b857582ffd2176b53d58e3167aa930e8/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/00ca527b0dd5491927116cf2ef7de4b7/transformed/glide-4.13.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/00ca527b0dd5491927116cf2ef7de4b7/transformed/glide-4.13.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hyejin/.gradle/caches/transforms-3/68e8f12e6853b716adf9828e3c212cdd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hyejin/.gradle/caches/transforms-3/68e8f12e6853b716adf9828e3c212cdd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/ac94934124bc87ac4c82e69d1ba0a2b5/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/ac94934124bc87ac4c82e69d1ba0a2b5/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/8e821de1944a32fcdfe939fc6e542a30/transformed/play-services-drive-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/8e821de1944a32fcdfe939fc6e542a30/transformed/play-services-drive-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/hyejin/.gradle/caches/transforms-3/eb46270c962ff9556b136c9dbb125336/transformed/play-services-location-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/hyejin/.gradle/caches/transforms-3/eb46270c962ff9556b136c9dbb125336/transformed/play-services-location-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/967dfaa09d5ca449a93aa5253ec505ff/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/967dfaa09d5ca449a93aa5253ec505ff/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/416ec8128da8b20db1a7d18f1d4b6a9a/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/hyejin/.gradle/caches/transforms-3/416ec8128da8b20db1a7d18f1d4b6a9a/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/6c8b0fc3035c840118cf1c2ec29cdfc5/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/6c8b0fc3035c840118cf1c2ec29cdfc5/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/1185481b5bdbb2da5e0c99d81960ebf5/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/1185481b5bdbb2da5e0c99d81960ebf5/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/hyejin/.gradle/caches/transforms-3/f145e27afcd8c76fda176d27ecdb0949/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/hyejin/.gradle/caches/transforms-3/f145e27afcd8c76fda176d27ecdb0949/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/5b45fb539138eff00dce43e393344c03/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/hyejin/.gradle/caches/transforms-3/5b45fb539138eff00dce43e393344c03/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/cc5e64b154e236b9fe5f26e161f10ec8/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/cc5e64b154e236b9fe5f26e161f10ec8/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/3180192317cea09deea390b1c9ab13e7/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/3180192317cea09deea390b1c9ab13e7/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hyejin/.gradle/caches/transforms-3/aaa089479d6fd99ae42902b08f073f8d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hyejin/.gradle/caches/transforms-3/aaa089479d6fd99ae42902b08f073f8d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/a23f5d925c99bdb66f597c2b57ea09cb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/a23f5d925c99bdb66f597c2b57ea09cb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/343ea938c55def90086d33452ccaf2a5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/343ea938c55def90086d33452ccaf2a5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/hyejin/.gradle/caches/transforms-3/3527abc722d72f402a62dcac2dec72b8/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hyejin/.gradle/caches/transforms-3/3527abc722d72f402a62dcac2dec72b8/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/9b8519e9f9929d6570e0f21d5e7b9b7d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/9b8519e9f9929d6570e0f21d5e7b9b7d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/b5e01df8dd7374394e8d0268937cc69c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/b5e01df8dd7374394e8d0268937cc69c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fa616ed6a2597ee7bcb3bec4fb321bb2/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fa616ed6a2597ee7bcb3bec4fb321bb2/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/ec11b1c897e38a6c1ab8b628b3c03cdf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/ec11b1c897e38a6c1ab8b628b3c03cdf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.4.0] /Users/hyejin/.gradle/caches/transforms-3/86a16b16ef8857eca31ea3722cca6f51/transformed/activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/hyejin/.gradle/caches/transforms-3/86a16b16ef8857eca31ea3722cca6f51/transformed/activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/bd9e8b70c9280789f8544380f6aac24b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/bd9e8b70c9280789f8544380f6aac24b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/5f20b36e6fe1aee9f6c0a8d734c37efb/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/5f20b36e6fe1aee9f6c0a8d734c37efb/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/810d50c539f03e9688fa09ebc2d451cc/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/810d50c539f03e9688fa09ebc2d451cc/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/72c54efdc4980465306cf883fcc163e1/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/72c54efdc4980465306cf883fcc163e1/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/2a9076f760c41b07ed4f478acc41e9d7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/2a9076f760c41b07ed4f478acc41e9d7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/604565b004bd1dac2109843fa844c0dc/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/604565b004bd1dac2109843fa844c0dc/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/85f18d4956ea93d9ed50796759abda88/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/85f18d4956ea93d9ed50796759abda88/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/2f5f9b30e7e460dcbf7d0954d752fe1f/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/hyejin/.gradle/caches/transforms-3/2f5f9b30e7e460dcbf7d0954d752fe1f/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/19d4807f4ba8aa52d28e4e4e4b1a3e8f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/19d4807f4ba8aa52d28e4e4e4b1a3e8f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/e4b0e7d28f50d28dd0b9131a0f531f88/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/e4b0e7d28f50d28dd0b9131a0f531f88/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hyejin/.gradle/caches/transforms-3/fda65d73b729c11904fab209d61df8e0/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hyejin/.gradle/caches/transforms-3/fda65d73b729c11904fab209d61df8e0/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/6e5f52a960c4f2f42b30626c783bb183/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/6e5f52a960c4f2f42b30626c783bb183/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/462618d6ccb6c287009eeb73ce3813e6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/462618d6ccb6c287009eeb73ce3813e6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/bb4873d6298048e19a11b35fd60bb014/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/bb4873d6298048e19a11b35fd60bb014/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/1e0f5e494a8a05ae27db24d5f5936baa/transformed/gifdecoder-4.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] /Users/hyejin/.gradle/caches/transforms-3/1e0f5e494a8a05ae27db24d5f5936baa/transformed/gifdecoder-4.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/hyejin/.gradle/caches/transforms-3/a795dc28003f8f248c31f699fd955d18/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/hyejin/.gradle/caches/transforms-3/a795dc28003f8f248c31f699fd955d18/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fce34dfaaf78fe287bb4ab7215feb537/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fce34dfaaf78fe287bb4ab7215feb537/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/209801ee54437568ddde5c5fee1edee9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/209801ee54437568ddde5c5fee1edee9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/68b40ef472db1d2b30f4ee795cb125b9/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/68b40ef472db1d2b30f4ee795cb125b9/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/c299e26d138179b1c078f9721f5bb70c/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/c299e26d138179b1c078f9721f5bb70c/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/42df1309c1374d016e2f4a92958199b6/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /Users/hyejin/.gradle/caches/transforms-3/42df1309c1374d016e2f4a92958199b6/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hyejin/.gradle/caches/transforms-3/7ec1029282eb1f650b1762c56cdffc05/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hyejin/.gradle/caches/transforms-3/7ec1029282eb1f650b1762c56cdffc05/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/8271b2fde833abad727692de747fe737/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/8271b2fde833abad727692de747fe737/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hyejin/.gradle/caches/transforms-3/9c5f9b726dd86a8771f1611236af7d24/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hyejin/.gradle/caches/transforms-3/9c5f9b726dd86a8771f1611236af7d24/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hyejin/.gradle/caches/transforms-3/33078a4207bfd95eeb2411721a4b3197/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hyejin/.gradle/caches/transforms-3/33078a4207bfd95eeb2411721a4b3197/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/b5af139868f9998feca2dcceeaedad4d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/b5af139868f9998feca2dcceeaedad4d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/68c564f3006466cfc424d7040d89cc43/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/68c564f3006466cfc424d7040d89cc43/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/93a771579b85359401cc7a1e97cc3b5a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/93a771579b85359401cc7a1e97cc3b5a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/69e658761d6b615d2298e3fd0ac0a192/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/69e658761d6b615d2298e3fd0ac0a192/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/7e888f7e44df294c1fc4d70680d1b040/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hyejin/.gradle/caches/transforms-3/7e888f7e44df294c1fc4d70680d1b040/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/hyejin/.gradle/caches/transforms-3/c2de38c8048fef95cd2e85cc37e3f411/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/hyejin/.gradle/caches/transforms-3/6d92530b2679e8baa09f5c9ceb576e2e/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fce34dfaaf78fe287bb4ab7215feb537/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/fce34dfaaf78fe287bb4ab7215feb537/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hyejin/.gradle/caches/transforms-3/80a0eca9dbebb8fe3d91c8f888a50dbd/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hyejin/.gradle/caches/transforms-3/f6d194f9627e849a520356864eb37153/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

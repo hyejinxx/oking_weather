@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/viewBack"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/night_gradient"
+        android:padding="23dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/addrTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="7dp"
+                android:layout_marginTop="10dp"
+                android:text="인천광역시 연수구"
+                android:textColor="#B5131212"
+                android:textSize="20sp"
+                android:fontFamily="@font/c"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/dateTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="3dp"
+                android:fontFamily="@font/cc"
+                android:text="2022년 5월 15일 20시"
+                android:textColor="#A628292E"
+                android:textSize="12dp" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/okingText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginEnd="10dp"
+                    android:fontFamily="@font/three"
+                    android:gravity="start"
+                    android:textSize="15sp"
+                    android:text="\n\n나가지 마세요  "
+                    android:textColor="#3B3B40" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/okingImage"
+                    android:layout_width="220dp"
+                    android:layout_height="220dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/oking_rain4" />
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/tempTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="5dp"
+                android:text="32°"
+                android:textColor="#4C4E57"
+                android:textSize="60sp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal">
+
+                <ImageView
+                    android:id="@+id/windImage1"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:src="@drawable/windy" />
+
+                <TextView
+                    android:id="@+id/windText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:text="바람 강하게 붐"
+                    android:textColor="#4C4E57"
+                    android:fontFamily="@font/c"
+                    android:textSize="13sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="30dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="13dp"
+                        android:text="하늘"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/skyImage"
+                        android:layout_width="50dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/cloud" />
+                </LinearLayout>
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="35dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="top|center_horizontal"
+                        android:text="바람"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <ImageView
+                        android:id="@+id/windImage2"
+                        android:layout_width="50dp"
+                        android:layout_height="45dp"
+                        android:src="@drawable/windy2"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/a"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/c"
+                        android:text="습도"
+                        android:textSize="12sp"
+                        app:layout_constraintEnd_toEndOf="@+id/humidityText"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+
+                    <TextView
+                        android:id="@+id/humidityText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:fontFamily="@font/c"
+                        android:text="15%"
+                        android:textColor="#424242"
+                        android:textSize="23sp"
+                        android:layout_marginTop="7dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/a" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+            </LinearLayout>
+
+            <!--            <TextView-->
+            <!--                android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:textSize="10sp"-->
+            <!--                android:layout_marginBottom="5dp"-->
+            <!--                android:text="오늘 남은 시간동안 바람이 많이 불 것으로 예상됩니다"-->
+            <!--                />-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/shape"
+                android:orientation="horizontal"
+                android:paddingHorizontal="15dp"
+                android:paddingVertical="20dp">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/timeTextAfter1Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="21시"
+                        android:fontFamily="@font/c"
+
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/skyImageAfter1Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        android:layout_marginVertical="12dp"
+                        android:src="@drawable/sun" />
+
+                    <TextView
+                        android:id="@+id/tempTextAfter1Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:fontFamily="@font/c"
+                        android:text="15°"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/timeTextAfter2Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="22시"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/skyImageAfter2Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        android:layout_marginVertical="12dp"
+                        android:src="@drawable/sun" />
+
+                    <TextView
+                        android:id="@+id/tempTextAfter2Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="15°"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/timeTextAfter3Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="23시"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/skyImageAfter3Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        android:layout_marginVertical="12dp"
+                        android:src="@drawable/rain" />
+
+                    <TextView
+                        android:id="@+id/tempTextAfter3Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="15°"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/timeTextAfter4Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="24시"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/skyImageAfter4Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        android:layout_marginVertical="12dp"
+                        android:src="@drawable/cloud_sun" />
+
+                    <TextView
+                        android:id="@+id/tempTextAfter4Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="15°"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/timeTextAfter5Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="1시"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/skyImageAfter5Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        android:layout_marginVertical="12dp"
+                        android:src="@drawable/snow_cloud" />
+
+                    <TextView
+                        android:id="@+id/tempTextAfter5Hour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="15°"
+                        android:fontFamily="@font/c"
+                        android:textSize="12sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</FrameLayout>

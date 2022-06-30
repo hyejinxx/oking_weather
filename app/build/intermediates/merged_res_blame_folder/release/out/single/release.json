@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-hdpi_oking_icon.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-hdpi/oking_icon.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_rain2.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_rain2.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_windy3.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/windy3.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/layout_fragment_weather.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/layout/fragment_weather.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_cloud.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_cloud.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_shape.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_night_gradient.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/night_gradient.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_mornig2.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/mornig2.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_b.ttf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/b.ttf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_bb.ttf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/bb.ttf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_oking_icon_foreground.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxxhdpi/oking_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_c.otf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/c.otf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxhdpi_oking_icon_round.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxhdpi/oking_icon_round.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_snow_cloud.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/snow_cloud.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_aa.ttf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/aa.ttf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-hdpi_oking_icon_round.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-hdpi/oking_icon_round.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/layout_fragment_fine_dust.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/layout/fragment_fine_dust.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_cloud.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/cloud.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_hot2.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_hot2.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_windysnowrain.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/windysnowrain.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-mdpi_oking_icon.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-mdpi/oking_icon.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_oking_icon_round.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxxhdpi/oking_icon_round.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_sun.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/sun.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxhdpi_oking_icon_foreground.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxhdpi/oking_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/layout_activity_start.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_oking_icon.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-anydpi-v26/oking_icon.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_rain_.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/rain_.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_windy1.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/windy1.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_cold.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/cold.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_windyx.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/windyx.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_good2.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_good2.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_hot3.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_hot3.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_morning.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/morning.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_good3.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_good3.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_good.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_good.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_cc.otf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/cc.otf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxhdpi_oking_icon.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxhdpi/oking_icon.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_cloud_sun.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/cloud_sun.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_hot.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_hot.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-mdpi_oking_icon_round.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-mdpi/oking_icon_round.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_rain.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_rain.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-hdpi_oking_icon_foreground.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-hdpi/oking_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_cloud3.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_cloud3.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_talk_shape.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/talk_shape.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_snow_rain.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/snow_rain.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-mdpi_oking_icon_foreground.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-mdpi/oking_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/raw_gif1.gif.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/raw/gif1.gif"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_rain3.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_rain3.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_evening_gradient.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/evening_gradient.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_windy2.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_windy2.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_windy.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/windy.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/layout_activity_show.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/layout/activity_show.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xhdpi_oking_icon_round.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xhdpi/oking_icon_round.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_rain.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/rain.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_talk_box.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/talk_box.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_one.ttf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/one.ttf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xhdpi_oking_icon.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xhdpi/oking_icon.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_good4.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_good4.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_windy2.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/windy2.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_a.ttf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/a.ttf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_oking_icon.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxxhdpi/oking_icon.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_snow.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_snow.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_oking_icon_round.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-anydpi-v26/oking_icon_round.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_two.ttf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/two.ttf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_oking_hot.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/oking_hot.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_day_gradient.xml.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/day_gradient.xml"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable_oking_rain4.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable/oking_rain4.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_three_1.ttf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/three_1.ttf"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/mipmap-xhdpi_oking_icon_foreground.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/mipmap-xhdpi/oking_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/drawable-v24_oking.png.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/drawable-v24/oking.png"
+    },
+    {
+        "merged": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/build/intermediates/merged_res/release/font_three.ttf.flat",
+        "source": "/Users/hyejin/Documents/Development/Android/Toy/OkingWeather/app/src/main/res/font/three.ttf"
+    }
+]
